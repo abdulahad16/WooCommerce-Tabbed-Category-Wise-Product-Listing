@@ -154,3 +154,4 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
 } else {
     echo "<h1 style='color:red;'>WooCommerce must be activated before activate this plugin. Otherwise this plugin will not work.</h1>";
 }
+?>
